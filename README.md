@@ -204,9 +204,9 @@ int main(void)
 
 ## Output screen shots of proteus  :
 ## LED OFF CONDITION
- ![output](https://github.com/Saibandhavi75/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/blob/main/ex42.png?raw=true)
- ## LED ON CONDITION
  ![output](https://github.com/Saibandhavi75/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/blob/main/ex41.png?raw=true)
+ ## LED ON CONDITION
+ ![output](https://github.com/Saibandhavi75/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/blob/main/ex42.png?raw=true)
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  ![output](https://github.com/Saibandhavi75/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/blob/main/ex43.png?raw=true)
  
